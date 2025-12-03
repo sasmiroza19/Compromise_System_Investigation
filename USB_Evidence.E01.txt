@@ -1,0 +1,46 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.26 
+
+Case Information: 
+Acquired using: ADI8.2.0.26
+Case Number: 1
+Evidence Number:  
+Unique Description: 
+Examiner: Sasmitha R
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\sasmi\Downloads\USB_Evidence:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 12
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 204,800
+[Physical Drive Information]
+ Drive Model: Microsoft Virtual Disk
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 100 MB
+ Sector count:    204800
+[Computed Hashes]
+ MD5 checksum:    d4577a10acbfd175c250657aee775dc8
+ SHA1 checksum:   bdcafd9b3ce7c27b85faa191a15fe9a493f0d29e
+
+Image Information:
+ Acquisition started:   Tue Dec  2 19:19:36 2025
+ Acquisition finished:  Tue Dec  2 19:19:36 2025
+ Segment list:
+  C:\Users\sasmi\Downloads\USB_Evidence.E01
+ COMPUTED HASH :  d4577a10acbfd175c250657aee775dc8
+ COMPUTED HASH :  bdcafd9b3ce7c27b85faa191a15fe9a493f0d29e
+
+Image Verification Results:
+ Verification started:  Tue Dec  2 19:19:36 2025
+ Verification finished: Tue Dec  2 19:19:37 2025
+ MD5 checksum:    d4577a10acbfd175c250657aee775dc8 : verified
+ SHA1 checksum:   bdcafd9b3ce7c27b85faa191a15fe9a493f0d29e : verified
